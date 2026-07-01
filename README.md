@@ -8,7 +8,7 @@ There may also be small indications in the notes themselves that recognize my re
 (some of my notes were hand-written and rearranged to fit into this repo,\
 and may not have a viable source linked to it)
 
-Send me an email at johnforprofessional@gmail.com if you have an issue with any of my content.\
+Send me an email at jonghyeoklee4295@gmail.com if you have an issue with any of my content.\
 Please be nice. I will cry.
 
 Protein/Tissue Structure\
